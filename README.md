@@ -9,21 +9,34 @@
 
 # Contents
 
-- [Why use PopcornPicks?](#why-use-popcornpicks)
-- [Project Documentation](#documentation)
-- [Project Presentation Video](#project-presentation-video)
-- [Brief Overview of Project](#project-description)
-- [Core Applications of the Project](#core-applications-of-the-project)<br/>
-  - [Recommendation Mechanism](#movie-recommendation-mechanism)<br/>
-  - [Email Notifier](#email-notifier)
-- [Improvements Made in the Project](#project-2-delta)
-- [TechStack Used for the Development of Project](#tech-stack-used)
-- [Steps for Execution](#getting-started)
-- [Future Scope](#future-scope)
-- [Contribute](#contribute-to-the-project)
-- [Team Members](#contributors)
-- [Contact](#contact)
-- [License](#license)
+- [ PopcornPicks🍿: Your Destination for Movie Recommendations ](#-popcornpicks-your-destination-for-movie-recommendations-)
+- [Check our Wiki Page for detailed information about the project, system architecture, installation steps, guides and a lot more!](#check-our-wiki-page-for-detailed-information-about-the-project-system-architecture-installation-steps-guides-and-a-lot-more)
+- [Contents](#contents)
+  - [Why use PopcornPicks?](#why-use-popcornpicks)
+  - [Documentation](#documentation)
+  - [Project Presentation Video](#project-presentation-video)
+  - [Project Description](#project-description)
+  - [Core Applications of the Project](#core-applications-of-the-project)
+    - [Engaging and Interactive UI](#engaging-and-interactive-ui)
+    - [User Authentication](#user-authentication)
+      - [Sign up: Users can register to PopcornPicks to get the best recommendations for their favourite movies and genres](#sign-up-users-can-register-to-popcornpicks-to-get-the-best-recommendations-for-their-favourite-movies-and-genres)
+      - [Login:](#login)
+    - [Personalised Profile Page for Users](#personalised-profile-page-for-users)
+    - [Check Out New and Upcoming Movies](#check-out-new-and-upcoming-movies)
+    - [Movie Recommendation Mechanism](#movie-recommendation-mechanism)
+    - [Write Movie Reviews](#write-movie-reviews)
+    - [See What Others Have Seen](#see-what-others-have-seen)
+    - [Chat Room](#chat-room)
+    - [Popular People](#popular-people)
+  - [Project 3 - New Version](#project-3---new-version)
+  - [Tech stack Used👨‍💻:](#tech-stack-used)
+  - [Getting Started](#getting-started)
+  - [Future Scope](#future-scope)
+  - [Contribute to the Project!](#contribute-to-the-project)
+  - [Contributors](#contributors)
+  - [Join the PopcornPicks Community:](#join-the-popcornpicks-community)
+  - [Contact Us](#contact-us)
+  - [License](#license)
 
 ## Why use PopcornPicks?
 
@@ -86,6 +99,9 @@ PopcornPicks is a user-friendly movie recommender that curates a tailored list o
 
 ### Chat Room
 ![Chat](./asset/ChatRoom.gif)
+
+### Popular People
+![Chat](./asset/popular_people.gif)
 
 ## Project 3 - New Version
 
