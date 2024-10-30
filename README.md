@@ -28,6 +28,7 @@
     - [See What Others Have Seen](#see-what-others-have-seen)
     - [Chat Room](#chat-room)
     - [Popular People](#popular-people)
+    - [TV Series](#tv-series)
   - [Project 3 - New Version](#project-3---new-version)
   - [Tech stack Used👨‍💻:](#tech-stack-used)
   - [Getting Started](#getting-started)
@@ -101,7 +102,10 @@ PopcornPicks is a user-friendly movie recommender that curates a tailored list o
 ![Chat](./asset/ChatRoom.gif)
 
 ### Popular People
-![Chat](./asset/popular_people.gif)
+![People](./asset/popular_people.gif)
+
+### TV Series
+![TV](./asset/TV_series.gif)
 
 ## Project 3 - New Version
 
