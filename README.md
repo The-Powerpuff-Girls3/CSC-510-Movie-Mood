@@ -1,6 +1,6 @@
 # <i> Movie Mood🍿: Movie Recommendations for your Personal Feeling </i>
 
-# [Check our Wiki Page for detailed information about the project, system architecture, installation steps, guides and a lot more!](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/wiki/Project-Wiki)
+# [Check our Wiki Page for detailed information about the project!](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/wiki/Project-Wiki)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/graphs/commit-activity)
 [![Contributors Activity](https://img.shields.io/github/commit-activity/m/The-Powerpuff-Girls3/CSC-510-Movie-Mood)](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/pulse)
