@@ -1,5 +1,18 @@
 # Contributor Covenant Code of Conduct
 
+## Project Mission
+
+Our project strives to create a collaborative, innovative, and inclusive environment for developers and contributors of all backgrounds. We are committed to building technology that reflects the values of accessibility, diversity, and respect. To achieve these goals, we believe that every contributor should feel valued, empowered, and free from discrimination or harassment, enabling us to bring our best ideas forward.
+
+## Vision for Inclusivity and Collaboration
+
+We envision a community where diverse perspectives are not only welcomed but celebrated. By fostering a collaborative environment that prioritizes mutual respect and inclusion, we aim to create a project that benefits from a range of ideas and experiences. With a strong commitment to our values, we seek to break down barriers and support the ongoing growth of each member. This Code of Conduct is foundational to our community as it outlines expectations for respectful and constructive interactions that allow us to create impactful technology together.
+
+## Purpose of This Code of Conduct
+
+The Code of Conduct serves as a guideline for maintaining a positive and productive atmosphere for all participants. It defines acceptable behavior and the standards we expect from each contributor, creating an environment where everyone can work confidently and without fear of harassment or discrimination. This code reflects our shared responsibility to uphold our project’s values and protect the wellbeing of all community members.
+
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
