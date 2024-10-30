@@ -95,12 +95,6 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 ### Chat Room
 ![Chat](./asset/ChatRoom.gif)
 
-## Project Improvements
-
-Check out the significant changes that we made for Project 3:
-* Backend: [Click Here](https://github.com/your-repo/MovieMood/wiki/Backend)
-* Frontend: [Click Here](https://github.com/your-repo/MovieMood/wiki/Frontend)
-
 ## Tech stack Used👨‍💻:
 
 <code><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
@@ -137,15 +131,18 @@ Get a TMDB API KEY:
     * On the API page, click on the link under the Request an API Key section.
     * Register an API key.
     * Agree to the terms of use and fill in the required information.
+    
 Step 4:
 Create a .env file:
      # .env
      TMDB_API_KEY=YOUR_TMDB_API_KEY
+     
 Step 5:
 Run the following commands:
     cd app
     python init_db.py
     python run.py
+    
 Step 6:
 Open the URL in your browser:
     http://127.0.0.1:8000/
