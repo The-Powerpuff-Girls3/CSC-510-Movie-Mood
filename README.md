@@ -1,45 +1,45 @@
-# <i> PopcornPicks🍿: Your Destination for Movie Recommendations </i>
+# <i> Movie Mood🍿: Movie Recommendations for your Personal Feeling </i>
 
-# [Check our Wiki Page for detailed information about the project, system architecture, installation steps, guides and a lot more!](https://github.com/tanmaypardeshi/CSC-510-Project3-PopcornPicks/wiki)
+# [Check our Wiki Page for detailed information about the project, system architecture, installation steps, guides and a lot more!](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/wiki/Project-Wiki)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/tanmaypardeshi/PopcornPicks/graphs/commit-activity) [![Contributors Activity](https://img.shields.io/github/commit-activity/m/tanmaypardeshi/PopcornPicks)](https://github.com/tanmaypardeshi/PopcornPicks/pulse) [![GitHub issues](https://img.shields.io/github/issues/tanmaypardeshi/PopcornPicks.svg)](https://github.com/tanmaypardeshi/PopcornPicks/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/tanmaypardeshi/PopcornPicks.svg)](https://github.com/tanmaypardeshi/PopcornPicks/issues?q=is%3Aissue+is%3Aclosed) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/tanmaypardeshi/PopcornPicks) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10211655.svg)](https://doi.org/10.5281/zenodo.10211655) [![Unittest](https://github.com/tanmaypardeshi/PopcornPicks/actions/workflows/unittest.yml/badge.svg?branch=master&event=push)](https://github.com/tanmaypardeshi/PopcornPicks/actions/workflows/unittest.yml) [![codecov](https://codecov.io/gh/tanmaypardeshi/CSC-510-Project3-PopcornPicks/graph/badge.svg?token=SZWTDA4REW)](https://codecov.io/gh/tanmaypardeshi/CSC-510-Project3-PopcornPicks)[![GitHub release](https://img.shields.io/github/release/tanmaypardeshi/PopcornPicks.svg)](https://GitHub.com/tanmaypardeshi/PopcornPicks/releases/) [![StyleCheck: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint) [![HitCount](https://hits.dwyl.com/tanmaypardeshi/PopcornPicks.svg)](https://hits.dwyl.com/tanmaypardeshi/PopcornPicks) ![GitHub contributors](https://img.shields.io/github/contributors/tanmaypardeshi/PopcornPicks) ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/tanmaypardeshi/PopcornPicks) ![GitHub repo size](https://img.shields.io/github/repo-size/tanmaypardeshi/PopcornPicks)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/graphs/commit-activity)
+[![Contributors Activity](https://img.shields.io/github/commit-activity/m/The-Powerpuff-Girls3/CSC-510-Movie-Mood)](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/pulse)
+[![GitHub issues](https://img.shields.io/github/issues/The-Powerpuff-Girls3/CSC-510-Movie-Mood.svg)](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/The-Powerpuff-Girls3/CSC-510-Movie-Mood.svg)](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/issues?q=is%3Aissue+is%3Aclosed)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/879064540.svg)](https://doi.org/10.5281/zenodo.14010536)
+[![Unittest](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/actions/workflows/unittest.yml/badge.svg?branch=master&event=push)](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/actions/workflows/unittest.yml)
+[![codecov](https://codecov.io/gh/The-Powerpuff-Girls3/CSC-510-Movie-Mood/graph/badge.svg?token=SZWTDA4REW)](https://codecov.io/gh/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
+[![GitHub release](https://img.shields.io/github/release/The-Powerpuff-Girls3/CSC-510-Movie-Mood.svg)](https://GitHub.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/releases/)
+[![StyleCheck: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
+[![HitCount](https://hits.dwyl.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood.svg)](https://hits.dwyl.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
+![GitHub contributors](https://img.shields.io/github/contributors/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
+![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
+![GitHub repo size](https://img.shields.io/github/repo-size/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
 
-![Home page](./asset/home-page.png)
-<b>PopcornPicks is more than just a movie recommender system; it's a gateway to a world of cinematic adventures. With an ever-expanding library of films, a powerful recommendation algorithm, an all-new chat room, a new state-of-the-art account system, a newly added robust review system, and more, PopcornPicks is here to transform the way you discover, enjoy, and connect with movies.</b>
+
+![Home page](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/blob/master/asset/readme_main.png)
+<b>Movie Mood is an invitation to explore the boundless realms of cinema. With a constantly expanding library of films, an intuitive recommendation algorithm, a vibrant new chat room, a seamless account system, and a robust review platform, PopcornPicks transforms the way you discover, enjoy, and engage with movies. It’s a gateway to unforgettable cinematic adventures.</b>
 
 # Contents
 
-- [ PopcornPicks🍿: Your Destination for Movie Recommendations ](#-popcornpicks-your-destination-for-movie-recommendations-)
-- [Check our Wiki Page for detailed information about the project, system architecture, installation steps, guides and a lot more!](#check-our-wiki-page-for-detailed-information-about-the-project-system-architecture-installation-steps-guides-and-a-lot-more)
-- [Contents](#contents)
-  - [Why use PopcornPicks?](#why-use-popcornpicks)
-  - [Documentation](#documentation)
-  - [Project Presentation Video](#project-presentation-video)
-  - [Project Description](#project-description)
-  - [Core Applications of the Project](#core-applications-of-the-project)
-    - [Engaging and Interactive UI](#engaging-and-interactive-ui)
-    - [User Authentication](#user-authentication)
-      - [Sign up: Users can register to PopcornPicks to get the best recommendations for their favourite movies and genres](#sign-up-users-can-register-to-popcornpicks-to-get-the-best-recommendations-for-their-favourite-movies-and-genres)
-      - [Login:](#login)
-    - [Personalised Profile Page for Users](#personalised-profile-page-for-users)
-    - [Check Out New and Upcoming Movies](#check-out-new-and-upcoming-movies)
-    - [Movie Recommendation Mechanism](#movie-recommendation-mechanism)
-    - [Write Movie Reviews](#write-movie-reviews)
-    - [See What Others Have Seen](#see-what-others-have-seen)
-    - [Chat Room](#chat-room)
-    - [Popular People](#popular-people)
-    - [TV Series](#tv-series)
-  - [Project 3 - New Version](#project-3---new-version)
-  - [Tech stack Used👨‍💻:](#tech-stack-used)
-  - [Getting Started](#getting-started)
-  - [Future Scope](#future-scope)
-  - [Contribute to the Project!](#contribute-to-the-project)
-  - [Contributors](#contributors)
-  - [Join the PopcornPicks Community:](#join-the-popcornpicks-community)
-  - [Contact Us](#contact-us)
-  - [License](#license)
+- [Why use Movie Mood?](#why-use-movie-mood)
+- [Project Presentation Video](#project-presentation-video)
+- [Brief Overview of Project](#project-description)
+- [Core Applications of the Project](#core-applications-of-the-project)<br/>
+  - [Recommendation Mechanism](#movie-recommendation-mechanism)<br/>
+  - [Email Notifier](#email-notifier)
+- [TechStack Used for the Development of Project](#tech-stack-used)
+- [Steps for Execution](#getting-started)
+- [Future Scope](#future-scope)
+- [Contribute](#contribute-to-the-project)
+- [Team Members](#contributors)
+- [Contact](#contact)
+- [License](#license)
 
-## Why use PopcornPicks?
+## Why use Movie Mood?
 
 <img
   src="https://media.giphy.com/media/nOwG55u1jGOiTAqKqU/giphy.gif"
@@ -47,28 +47,23 @@
   align="right"
 />
 
-**PopcornPicks: Your personalized movie guide!**
+**Movie Mood: Match your mood with the perfect movie!**
 
-- **Efficient:** Lightning-fast recommendations for movie buffs! 🚀
-- **Adaptable:** Tailor the recommendations to your taste.
-- **Accessible:** Works across all platforms and shells.
-- **Insightful:** Get movie insights at a glance.
-- **Comprehensive:** Includes the ability to review and chat about your favorite movies.
-- **Simple:** Easy installation and setup – start discovering great movies in no time!
-- **Robust:** Build your own account where you can store all the movies you've seen.
- 
-
-## Documentation
-
-Checkout for project documentation at our [wiki page](https://github.com/tanmaypardeshi/PopcornPicks/wiki)
+- **Pravite:** Share your feelings with invited users. 
+- **Efficient:** Quick, tailored recommendations to match your current mood. 
+- **Adaptable:** Suggestions shift based on your feedback and feelings.
+- **Accessible:** Works seamlessly across different platforms.
+- **Engaging:** Discover movies that reflect your emotional state.
+- **Interactive:** Chat about your recommendations with friends or the Movie Mood community.
+- **Simple:** Easy installation and setup – start exploring mood-based movie recommendations instantly!
 
 ## Project Presentation Video
 
-You can see the project presentation at - https://youtu.be/ymAo_zXfZ0c
+You can see the project presentation at - [YouTube link]
 
 ## Project Description
 
-PopcornPicks is a user-friendly movie recommender that curates a tailored list of 10 movie predictions based on user-provided movie preferences. Users can input their favorite movies, and our algorithm refines recommendations based on feedback—Liked, Disliked, or Yet To Watch. Additionally, users can write reviews, save them, check out the latest movies out there and also check out the buzz going on about movies by viewing what others are writing for their reviews. For the system architecture and other details, please refer to our [wiki page](https://github.com/tanmaypardeshi/PopcornPicks/wiki)
+Movie Mood is a personalized movie recommendation platform that curates a list of 10 movies based on your emotional state. Users can select their current mood, and our algorithm suggests movies that align with that mood. The platform also allows you to provide feedback—Liked, Disliked, or Neutral—which helps refine future recommendations. Users can also write reviews, share them, and see what others are watching and reviewing. For more details on the system architecture and user flow, please refer to our [wiki page](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/wiki/Project-Wiki).
 
 ## Core Applications of the Project
 
@@ -77,13 +72,13 @@ PopcornPicks is a user-friendly movie recommender that curates a tailored list o
 
 ### User Authentication
 
-#### Sign up: Users can register to PopcornPicks to get the best recommendations for their favourite movies and genres
+#### Sign up: Users can register to Movie Mood for personalized recommendations based on their emotional state.
 ![Sign Up](./asset/signup.gif)
 
 #### Login: 
 ![Login](./asset/login.gif)
 
-### Personalised Profile Page for Users
+### Personalized Profile Page for Users
 ![Profile](./asset/profile.gif)
 
 ### Check Out New and Upcoming Movies
@@ -95,33 +90,21 @@ PopcornPicks is a user-friendly movie recommender that curates a tailored list o
 ### Write Movie Reviews
 ![Review](./asset/review.gif)
 
-### See What Others Have Seen 
+### See What Others Have Seen
 ![Movies](./asset/movies-list.gif)
 
 ### Chat Room
 ![Chat](./asset/ChatRoom.gif)
 
-### Popular People
-![People](./asset/popular_people.gif)
-
-### TV Series
-![TV](./asset/TV_series.gif)
-
-## Project 3 - New Version
-
-Check out the significant changes that we made for Project 3:
-* Backend: [Click Here](https://github.com/tanmaypardeshi/CSC-510-Project3-PopcornPicks/wiki/Backend)
-* Frontend: [Click Here](https://github.com/tanmaypardeshi/CSC-510-Project3-PopcornPicks/wiki/Frontend)
-
 ## Tech stack Used👨‍💻:
 
 <code><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code> <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://www.jquery.com//" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
-
 
 <p>
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150"> 
@@ -134,67 +117,67 @@ Check out the significant changes that we made for Project 3:
 ## Getting Started
 
 Step 1:
-Git Clone the Repository
-
-    git clone https://github.com/tanmaypardeshi/PopcornPicks.git
-
-(OR) Download the .zip file on your local machine from the following link
-
-    https://github.com/tanmaypardeshi/PopcornPicks
+Git Clone the Repository:
+    git clone https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood.git
 
 Step 2:
-Follow the setup instructions in the wiki documentation
+Install the required packages:
+    pip install -r requirements.txt
 
-    https://github.com/tanmaypardeshi/PopcornPicks/wiki/Installation-and-setup
+Step 3:
+Get a TMDB API KEY:
+    To get an API from TMDB:
+    * Signup to your https://www.themoviedb.org/signup
+    * Under the Account icon, click Settings.
+    * On the API page, click on the link under the Request an API Key section.
+    * Register an API key.
+    * Agree to the terms of use and fill in the required information.
+    
+Step 4:
+Create a .env file:
+     # .env
+     TMDB_API_KEY=YOUR_TMDB_API_KEY
+     
+Step 5:
+Run the following commands:
+    cd app
+    python init_db.py
+    python run.py
+    
+Step 6:
+Open the URL in your browser:
+    http://127.0.0.1:8000/
 
-<b>Finally, start enjoying personalized movie recommendations!</b>
+<b>Finally, start matching your mood with the perfect movies!</b>
 
 ## Future Scope
 
-PopcornPicks is a dynamic project with endless possibilities for expansion and enhancement. Here are some exciting avenues for future development:
+Movie Mood has great potential for future expansion. Here are some exciting ideas for growth:
 
-1. **Enahncements on the User Profile**: Implement more advanced features to the user profile. For example, include edit
-or delete review option. Make validations for the duplicate reviews. These are a few examples of what can be enhanced in 
-the future
-
-2. **Integration with Streaming Services**: Integrate with popular streaming services to provide real-time availability information and seamless access to recommended movies.
-
-3. **Dynamic Chat Rooms**: The current design of the application supports only a single chat room which is global to the website. The chat rooms can be made dynamic to a movie.
-
-4. **Improved Recommendation Algorithm**: Enhance the recommendation engine with more advanced machine learning models and collaborative filtering techniques to provide even more accurate and personalized movie suggestions.
-
-5. **Interactive Review System**: In this feature, users should be able to comment on other people's reviews so that the site can be more interactive and engaging for everyone
-
-6. **Page for TV Shows**: Add a seperate section for TV shows. This can include shows from all streaming websites and television. This can be a parallel to the movies section of the website.
-
-7. **Email Notifier**: Allow the user to send their favourite movie recommendations via email.
-
-8. **Wishlist Feature**: Implement a feature where users can wishlist the recommendations they like and make lists of movies based on their preferences.
-
-The future of PopcornPicks is full of potential, and we invite developers, movie lovers, and anyone passionate about cinema to join us in making this platform the ultimate movie companion.
+1. **Enhanced User Profiles:** Include features for users to edit or delete reviews, and avoid duplicate entries.
+2. **Integration with Streaming Services:** Connect with streaming platforms to show availability of recommended movies in real-time.
+3. **Dynamic Chat Rooms:** Allow movie-specific chat rooms to facilitate more targeted discussions.
+4. **Improved Mood-Based Recommendation Algorithm:** Refine the algorithm using advanced machine learning models to provide better accuracy in mood-based suggestions.
+5. **Interactive Review System:** Enable users to comment on each other's reviews to foster community engagement.
+6. **TV Show Recommendations:** Add a dedicated section for TV shows, curated based on mood, just like the movie section.
+7. **Mood Tracker:** Allow users to track their moods over time and see how their movie preferences change with their emotions.
+8. **Collaborative Mood Movie Lists:** Implement a feature for friends to collaboratively create shared movie lists based on mutual moods.
 
 ## Contribute to the Project!
 
-Please refer to the [CONTRIBUTING.md](https://github.com/tanmaypardeshi/PopcornPicks/blob/master/CONTRIBUTING.md) if you want to contribute to the PopcornPicks source code. Follow all the guidelines mentioned in the same and raise a pull request, we would love to look at it ❤️❤️!
+Please refer to the [CONTRIBUTING.md](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/blob/master/CONTRIBUTING.md) for guidelines on contributing. Raise a pull request, and we'd love to review it ❤️❤️!
 
 ## Contributors
 
-[Tanmay Pardeshi](https://github.com/tanmaypardeshi)<br>
-[Chandana Ray](https://github.com/cray94)<br>
-[Abhinav Sinha](https://github.com/abhinav110595)<br>
-[Sam Kwiatkowski-Martin](https://github.com/ExtremeMachine12)<br>
+[Hua Yang](https://github.com/HuaYangttt)
+[Yinan Wu](https://github.com/YinanWusoymilk)
+[Lvxun Tao](https://github.com/lvxuntao)
 
-## Join the PopcornPicks Community:
-
-Contribute to the project and help us improve recommendations.
-Share your experience and film discoveries with us.
-Together, let's make PopcornPicks the ultimate movie companion!
-PopcornPicks is more than just code; it's a passion for cinema, and we invite you to be a part of this exciting journey. Start exploring, sharing, and discovering movies like never before with PopcornPicks!
-Let's make movie nights extraordinary together!
 
 ## Contact Us
 
-If you have any concerns or questions related to PopcornPicks, you can reach out to us at popcornpickv2@gmail.com
+If you have any concerns or questions related to Movie Mood, feel free to reach out to us at moviemoodhelp@gmail.com.
+
 
 ## License
 
