@@ -29,7 +29,6 @@
 - [Core Applications of the Project](#core-applications-of-the-project)<br/>
   - [Recommendation Mechanism](#movie-recommendation-mechanism)<br/>
   - [Email Notifier](#email-notifier)
-- [Improvements Made in the Project](#project-improvements)
 - [TechStack Used for the Development of Project](#tech-stack-used)
 - [Steps for Execution](#getting-started)
 - [Future Scope](#future-scope)
