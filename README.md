@@ -18,7 +18,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
 
 
-![Home page](./asset/readme_main.png)
+![Home page](https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/blob/master/asset/readme_main.png)
 <b>Movie Mood is an invitation to explore the boundless realms of cinema. With a constantly expanding library of films, an intuitive recommendation algorithm, a vibrant new chat room, a seamless account system, and a robust review platform, PopcornPicks transforms the way you discover, enjoy, and engage with movies. It’s a gateway to unforgettable cinematic adventures.</b>
 
 # Contents
