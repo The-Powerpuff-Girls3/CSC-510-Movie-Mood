@@ -310,11 +310,11 @@ def new_movies():
     return render_template('new_movies.html', show_message=True,
                            message='Error fetching movie data')
 
-@app.route('/popular_people', methods=["GET"])
+@app.route('/celebrity', methods=["GET"])
 @login_required
-def popular_people():
+def celebrity():
     """
-    API to fetch popular people
+    API to fetch celebrity
     """
     tmdb_api_key = TMDB_API_KEY
     endpoint = 'https://api.themoviedb.org/3/trending/person/day?language=en-US'
@@ -331,7 +331,7 @@ def popular_people():
             requests.exceptions.ConnectionError,
             requests.exceptions.Timeout,
             requests.exceptions.RequestException) as e:
-        return render_template('popular_people.html', show_message=True, message=e)
+        return render_template('celebrity.html', show_message=True, message=e)
 
     if response.status_code == 200:
         # Parse the JSON response
@@ -346,9 +346,9 @@ def popular_people():
             if details_response.status_code == 200:
                 person['biography'] = details_response.json().get('biography', 'No biography available.')
 
-        return render_template('popular_people.html', people=sorted_people, user=current_user)
+        return render_template('celebrity.html', people=sorted_people, user=current_user)
     
-    return render_template('popular_people.html', show_message=True, message='Error fetching people data')
+    return render_template('celebrity.html', show_message=True, message='Error fetching people data')
 
 @app.route('/new_series', methods=["GET"])
 @login_required
