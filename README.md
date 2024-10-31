@@ -42,7 +42,7 @@
     - [Write Movie Reviews](#write-movie-reviews)
     - [See What Others Have Seen](#see-what-others-have-seen)
     - [Chat Room](#chat-room)
-    - [Based on preivous project, we added two new UI tabs!](#based-on-preivous-project-we-added-two-new-ui-tabs)
+    - [❤️Based on preivous project, we added two new UI tabs!❤️](#️based-on-preivous-project-we-added-two-new-ui-tabs️)
     - [today's series](#todays-series)
     - [celebrity](#celebrity)
   - [Tech stack Used👨‍💻:](#tech-stack-used)
@@ -110,7 +110,7 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 ### Chat Room
 ![Chat](./asset/ChatRoom.gif)
 
-### Based on preivous project, we added two new UI tabs!
+### ❤️Based on preivous project, we added two new UI tabs!❤️
 ### today's series
 
 ![UI](./asset/TV_series.gif)
