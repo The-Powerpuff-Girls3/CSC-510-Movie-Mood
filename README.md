@@ -33,7 +33,6 @@
   - [Project Description](#project-description)
   - [Core Applications of the Project](#core-applications-of-the-project)
     - [Engaging in NEW Interactive UI](#engaging-in-new-interactive-ui)
-      - [based on preivous project, we added two new UI tabs!](#based-on-preivous-project-we-added-two-new-ui-tabs)
     - [User Authentication](#user-authentication)
       - [Sign up: Users can register to Movie Mood for personalized recommendations based on their emotional state.](#sign-up-users-can-register-to-movie-mood-for-personalized-recommendations-based-on-their-emotional-state)
       - [Login:](#login)
@@ -43,6 +42,9 @@
     - [Write Movie Reviews](#write-movie-reviews)
     - [See What Others Have Seen](#see-what-others-have-seen)
     - [Chat Room](#chat-room)
+    - [Based on preivous project, we added two new UI tabs!](#based-on-preivous-project-we-added-two-new-ui-tabs)
+    - [today's series](#todays-series)
+    - [celebrity](#celebrity)
   - [Tech stack Used👨‍💻:](#tech-stack-used)
   - [Getting Started](#getting-started)
   - [Future Scope](#future-scope)
@@ -82,17 +84,6 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 ### Engaging in NEW Interactive UI
 ![UI](./asset/engage.gif)
 
-#### based on preivous project, we added two new UI tabs!
-one is called "today's series"
-
-![UI](./asset/TV_series.gif)
-
-another one is called "celebrity"
-
-![UI](./asset/celebrity.gif)
-
-Right now, users can enjoy more content from our website!!!
-
 ### User Authentication
 
 #### Sign up: Users can register to Movie Mood for personalized recommendations based on their emotional state.
@@ -118,6 +109,18 @@ Right now, users can enjoy more content from our website!!!
 
 ### Chat Room
 ![Chat](./asset/ChatRoom.gif)
+
+### Based on preivous project, we added two new UI tabs!
+### today's series
+
+![UI](./asset/TV_series.gif)
+
+### celebrity
+
+![UI](./asset/celebrity.gif)
+
+Right now, users can enjoy more content from our website!!!
+
 
 ## Tech stack Used👨‍💻:
 
