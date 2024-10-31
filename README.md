@@ -67,8 +67,19 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 
 ## Core Applications of the Project
 
-### Engaging and Interactive UI
+### Engaging in NEW Interactive UI
 ![UI](./asset/engage.gif)
+
+#### based on preivous project, we added two new UI tabs!
+one is called "today's series"
+
+#insert gif
+
+another one is called "Popular people"
+
+#insert gif
+
+Right now, users can enjoy more content from our website!!!
 
 ### User Authentication
 
