@@ -85,7 +85,7 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 #### based on preivous project, we added two new UI tabs!
 one is called "today's series"
 
-#insert gif
+![UI](./asset/TV_series.gif)
 
 another one is called "celebrity"
 
