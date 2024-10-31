@@ -93,32 +93,32 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 ![Login](./asset/login.gif)
 
 ### Personalized Profile Page for Users
-![Profile](./asset/profile.mp4)
 <video src="./asset/profile.mp4" controls></video>
 
 ### Check Out New and Upcoming Movies
-![New Movies](./asset/new_movies.mp4)
+<video src="./asset/new_movies.mp4" controls></video>
 
 ### Movie Recommendation Mechanism
 ![Recommend](./asset/predicted_movie_poster.mp4)
+<video src="./asset/predicted_movie_poster.mp4" controls></video>
 
 ### Write Movie Reviews
-![Review](./asset/review.gif)
+<video src="./asset/review.mp4" controls></video>
 
 ### See What Others Have Seen
-![Movies](./asset/movies-list.gif)
+<video src="./asset/movies-list.mp4" controls></video>
 
 ### Chat Room
-![Chat](./asset/ChatRoom.gif)
+<video src="./asset/ChatRoom.mp4" controls></video>
 
 ### ❤️Based on preivous project, we added two new UI tabs!❤️
 ### today's series
 
-![UI](./asset/TV_series.gif)
+![TV](./asset/TV_series.gif)
 
 ### celebrity
 
-![UI](./asset/celebrity.gif)
+![Popular](./asset/celebrity.gif)
 
 Right now, users can enjoy more content from our website!!!
 
