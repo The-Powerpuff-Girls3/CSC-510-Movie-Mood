@@ -43,8 +43,8 @@
     - [See What Others Have Seen](#see-what-others-have-seen)
     - [Chat Room](#chat-room)
     - [❤️Based on preivous project, we added two new UI tabs!❤️](#️based-on-preivous-project-we-added-two-new-ui-tabs️)
-    - [See up-to-date series](#see-up-to-date-series)
-    - [See who are the most popular celebrity](#see-who-are-the-most-popular-celebrity)
+    - [today's series](#todays-series)
+    - [celebrity](#celebrity)
   - [Tech stack Used👨‍💻:](#tech-stack-used)
   - [Getting Started](#getting-started)
   - [Future Scope](#future-scope)
@@ -82,40 +82,42 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 ## Core Applications of the Project
 
 ### Engaging in NEW Interactive UI
-<video src="./asset/engage.mp4" controls></video>
+![UI](./asset/engage.gif)
 
 ### User Authentication
 
 #### Sign up: Users can register to Movie Mood for personalized recommendations based on their emotional state.
-<video src="./asset/signup.mp4" controls></video>
+![Sign Up](./asset/signup.gif)
 
 #### Login: 
-<video src="./asset/login.mp4" controls></video>
+![Login](./asset/login.gif)
 
 ### Personalized Profile Page for Users
-<video src="./asset/profile.mp4" controls></video>
+![Profile](./asset/profile.gif)
 
 ### Check Out New and Upcoming Movies
-<video src="./asset/new_movies.mp4" controls></video>
+![New Movies](./asset/new_movies.gif)
 
 ### Movie Recommendation Mechanism
-<video src="./asset/predicted_movie_poster.mp4" controls></video>
+![Recommend](./asset/predicted_movie_poster.gif)
 
 ### Write Movie Reviews
-<video src="./asset/review.mp4" controls></video>
+![Review](./asset/review.gif)
 
 ### See What Others Have Seen
-<video src="./asset/movies-list.mp4" controls></video>
+![Movies](./asset/movies-list.gif)
 
 ### Chat Room
-<video src="./asset/ChatRoom.mp4" controls></video>
+![Chat](./asset/ChatRoom.gif)
 
 ### ❤️Based on preivous project, we added two new UI tabs!❤️
-### See up-to-date series
-<video src="./asset/TV_series.mp4" controls></video>
+### today's series
 
-### See who are the most popular celebrity
-<video src="./asset/celebrity.mp4" controls></video>
+![UI](./asset/TV_series.gif)
+
+### celebrity
+
+![UI](./asset/celebrity.gif)
 
 Right now, users can enjoy more content from our website!!!
 
