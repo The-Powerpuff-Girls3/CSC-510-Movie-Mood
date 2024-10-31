@@ -43,8 +43,8 @@
     - [See What Others Have Seen](#see-what-others-have-seen)
     - [Chat Room](#chat-room)
     - [❤️Based on preivous project, we added two new UI tabs!❤️](#️based-on-preivous-project-we-added-two-new-ui-tabs️)
-    - [today's series](#todays-series)
-    - [celebrity](#celebrity)
+    - [See up-to-date today's series](#see-up-to-date-todays-series)
+    - [See who are the most popular celebrity](#see-who-are-the-most-popular-celebrity)
   - [Tech stack Used👨‍💻:](#tech-stack-used)
   - [Getting Started](#getting-started)
   - [Future Scope](#future-scope)
@@ -111,10 +111,10 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 <video src="./asset/ChatRoom.mp4" controls></video>
 
 ### ❤️Based on preivous project, we added two new UI tabs!❤️
-### today's series
+### See up-to-date today's series
 <video src="./asset/TV_series.mp4" controls></video>
 
-### celebrity
+### See who are the most popular celebrity
 <video src="./asset/celebrity.mp4" controls></video>
 
 Right now, users can enjoy more content from our website!!!
