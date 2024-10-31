@@ -36,15 +36,17 @@
     - [User Authentication](#user-authentication)
       - [Sign up: Users can register to Movie Mood for personalized recommendations based on their emotional state.](#sign-up-users-can-register-to-movie-mood-for-personalized-recommendations-based-on-their-emotional-state)
       - [Login:](#login)
-    - [Personalized Profile Page for Users](#personalized-profile-page-for-users)
-    - [Check Out New and Upcoming Movies](#check-out-new-and-upcoming-movies)
-    - [Movie Recommendation Mechanism](#movie-recommendation-mechanism)
-    - [Write Movie Reviews](#write-movie-reviews)
-    - [See What Others Have Seen](#see-what-others-have-seen)
-    - [Chat Room](#chat-room)
-  - [❤️Based on preivous project, we added two new UI tabs!❤️](#️based-on-preivous-project-we-added-two-new-ui-tabs️)
-    - [today's series](#todays-series)
-    - [celebrity](#celebrity)
+    - [MovieSphere](#moviesphere)
+      - [Personalized Profile Page for Users](#personalized-profile-page-for-users)
+      - [Check Out New and Upcoming Movies](#check-out-new-and-upcoming-movies)
+      - [Movie Recommendation Mechanism](#movie-recommendation-mechanism)
+      - [Write Movie Reviews](#write-movie-reviews)
+    - [User Interaction](#user-interaction)
+      - [See What Others Have Seen](#see-what-others-have-seen)
+      - [Chat Room](#chat-room)
+    - [❤️Based on preivous project, we added two new UI tabs!❤️](#️based-on-preivous-project-we-added-two-new-ui-tabs️)
+      - [today's series](#todays-series)
+      - [celebrity](#celebrity)
   - [Tech stack Used👨‍💻:](#tech-stack-used)
   - [Getting Started](#getting-started)
   - [Future Scope](#future-scope)
@@ -92,29 +94,33 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 #### Login: 
 ![Login](./asset/login.gif)
 
-### Personalized Profile Page for Users
+### MovieSphere
+
+#### Personalized Profile Page for Users
 ![Profile](./asset/profile.gif)
 
-### Check Out New and Upcoming Movies
+#### Check Out New and Upcoming Movies
 ![New Movies](./asset/new_movies.gif)
 
-### Movie Recommendation Mechanism
+#### Movie Recommendation Mechanism
 ![Recommend](./asset/predicted_movie_poster.gif)
 
-### Write Movie Reviews
+#### Write Movie Reviews
 ![Review](./asset/review.gif)
 
-### See What Others Have Seen
+### User Interaction
+
+#### See What Others Have Seen
 ![Movies](./asset/movies-list.gif)
 
-### Chat Room
+#### Chat Room
 ![Chat](./asset/ChatRoom.gif)
 
-## ❤️Based on preivous project, we added two new UI tabs!❤️
-### today's series
+### ❤️Based on preivous project, we added two new UI tabs!❤️
+#### today's series
 ![Series](./asset/today_series.gif)
 
-### celebrity
+#### celebrity
 ![Celebrity](./asset/celebrity.gif)
 
 Right now, users can enjoy more content from our website!!!
