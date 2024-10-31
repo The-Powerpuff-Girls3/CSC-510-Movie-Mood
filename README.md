@@ -93,13 +93,13 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 ![Login](./asset/login.gif)
 
 ### Personalized Profile Page for Users
-![Profile](./asset/profile.gif)
+![Profile](./asset/profile.mp4)
 
 ### Check Out New and Upcoming Movies
-![New Movies](./asset/new_movies.gif)
+![New Movies](./asset/new_movies.mp4)
 
 ### Movie Recommendation Mechanism
-![Recommend](./asset/predicted_movie_poster.gif)
+![Recommend](./asset/predicted_movie_poster.mp4)
 
 ### Write Movie Reviews
 ![Review](./asset/review.gif)
