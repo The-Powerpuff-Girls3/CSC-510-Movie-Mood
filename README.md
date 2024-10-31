@@ -94,6 +94,7 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 
 ### Personalized Profile Page for Users
 ![Profile](./asset/profile.mp4)
+<video src="./asset/profile.mp4" controls></video>
 
 ### Check Out New and Upcoming Movies
 ![New Movies](./asset/new_movies.mp4)
