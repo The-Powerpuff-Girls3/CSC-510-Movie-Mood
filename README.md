@@ -89,7 +89,7 @@ one is called "today's series"
 
 another one is called "celebrity"
 
-#insert gif
+![UI](./asset/celebrity.gif)
 
 Right now, users can enjoy more content from our website!!!
 
