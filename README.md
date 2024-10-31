@@ -25,19 +25,31 @@
 
 # Contents
 
-- [Why use Movie Mood?](#why-use-movie-mood)
-- [Project Presentation Video](#project-presentation-video)
-- [Brief Overview of Project](#project-description)
-- [Core Applications of the Project](#core-applications-of-the-project)<br/>
-  - [Recommendation Mechanism](#movie-recommendation-mechanism)<br/>
-  - [Email Notifier](#email-notifier)
-- [TechStack Used for the Development of Project](#tech-stack-used)
-- [Steps for Execution](#getting-started)
-- [Future Scope](#future-scope)
-- [Contribute](#contribute-to-the-project)
-- [Team Members](#contributors)
-- [Contact](#contact)
-- [License](#license)
+- [ Movie Mood🍿: Movie Recommendations for your Personal Feeling ](#-movie-mood-movie-recommendations-for-your-personal-feeling-)
+- [Check our Wiki Page for detailed information about the project!](#check-our-wiki-page-for-detailed-information-about-the-project)
+- [Contents](#contents)
+  - [Why use Movie Mood?](#why-use-movie-mood)
+  - [Project Presentation Video](#project-presentation-video)
+  - [Project Description](#project-description)
+  - [Core Applications of the Project](#core-applications-of-the-project)
+    - [Engaging in NEW Interactive UI](#engaging-in-new-interactive-ui)
+      - [based on preivous project, we added two new UI tabs!](#based-on-preivous-project-we-added-two-new-ui-tabs)
+    - [User Authentication](#user-authentication)
+      - [Sign up: Users can register to Movie Mood for personalized recommendations based on their emotional state.](#sign-up-users-can-register-to-movie-mood-for-personalized-recommendations-based-on-their-emotional-state)
+      - [Login:](#login)
+    - [Personalized Profile Page for Users](#personalized-profile-page-for-users)
+    - [Check Out New and Upcoming Movies](#check-out-new-and-upcoming-movies)
+    - [Movie Recommendation Mechanism](#movie-recommendation-mechanism)
+    - [Write Movie Reviews](#write-movie-reviews)
+    - [See What Others Have Seen](#see-what-others-have-seen)
+    - [Chat Room](#chat-room)
+  - [Tech stack Used👨‍💻:](#tech-stack-used)
+  - [Getting Started](#getting-started)
+  - [Future Scope](#future-scope)
+  - [Contribute to the Project!](#contribute-to-the-project)
+  - [Contributors](#contributors)
+  - [Contact Us](#contact-us)
+  - [License](#license)
 
 ## Why use Movie Mood?
 
@@ -182,7 +194,7 @@ Please refer to the [CONTRIBUTING.md](https://github.com/The-Powerpuff-Girls3/CS
 
 [Hua Yang](https://github.com/HuaYangttt)
 [Yinan Wu](https://github.com/YinanWusoymilk)
-[Lvxun Tao](https://github.com/lvxuntao)
+[Xuntao Lyu](https://github.com/lvxuntao)
 
 
 ## Contact Us
