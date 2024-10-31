@@ -82,15 +82,15 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 ## Core Applications of the Project
 
 ### Engaging in NEW Interactive UI
-![UI](./asset/engage.gif)
+<video src="./asset/engage.mp4" controls></video>
 
 ### User Authentication
 
 #### Sign up: Users can register to Movie Mood for personalized recommendations based on their emotional state.
-![Sign Up](./asset/signup.gif)
+<video src="./asset/signup.mp4" controls></video>
 
 #### Login: 
-![Login](./asset/login.gif)
+<video src="./asset/login.mp4" controls></video>
 
 ### Personalized Profile Page for Users
 <video src="./asset/profile.mp4" controls></video>
@@ -99,7 +99,6 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 <video src="./asset/new_movies.mp4" controls></video>
 
 ### Movie Recommendation Mechanism
-![Recommend](./asset/predicted_movie_poster.mp4)
 <video src="./asset/predicted_movie_poster.mp4" controls></video>
 
 ### Write Movie Reviews
