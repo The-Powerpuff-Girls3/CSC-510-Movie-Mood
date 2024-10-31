@@ -87,7 +87,7 @@ one is called "today's series"
 
 #insert gif
 
-another one is called "Popular people"
+another one is called "celebrity"
 
 #insert gif
 
