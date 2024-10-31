@@ -112,12 +112,10 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 
 ### ❤️Based on preivous project, we added two new UI tabs!❤️
 ### today's series
-
-![TV](./asset/TV_series.gif)
+<video src="./asset/TV_series.mp4" controls></video>
 
 ### celebrity
-
-![Popular](./asset/celebrity.gif)
+<video src="./asset/celebrity.mp4" controls></video>
 
 Right now, users can enjoy more content from our website!!!
 
