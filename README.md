@@ -14,6 +14,7 @@
 [![codecov](https://codecov.io/gh/The-Powerpuff-Girls3/CSC-510-Movie-Mood/graph/badge.svg?token=SZWTDA4REW)](https://codecov.io/gh/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
 [![GitHub release](https://img.shields.io/github/release/The-Powerpuff-Girls3/CSC-510-Movie-Mood.svg)](https://GitHub.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood/releases/)
 [![StyleCheck: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
+[![Code Formatter: black](https://img.shields.io/badge/formatter-black-black)](https://black.readthedocs.io/en/stable/)
 [![HitCount](https://hits.dwyl.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood.svg)](https://hits.dwyl.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
 ![GitHub contributors](https://img.shields.io/github/contributors/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
 ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/The-Powerpuff-Girls3/CSC-510-Movie-Mood)
