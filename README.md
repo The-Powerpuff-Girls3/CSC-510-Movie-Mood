@@ -116,14 +116,14 @@ Movie Mood is a personalized movie recommendation platform that curates a list o
 #### See What Others Have Seen
 ![Movies](./asset/movies-list.gif)
 
-#### Chat Room
+#### Private Chat Room
 ![Chat](./asset/ChatRoom.gif)
 
 ### ❤️Based on preivous project, we added two new UI tabs!❤️
-#### today's series
+#### Today's series
 ![Series](./asset/today_series.gif)
 
-#### celebrity
+#### Celebrity
 ![Celebrity](./asset/celebrity.gif)
 
 Right now, users can enjoy more content from our website!!!
