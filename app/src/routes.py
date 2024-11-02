@@ -342,7 +342,7 @@ def celebrity():
         # Fetch additional details for each person
         for person in sorted_people:
             person_id = person['id']
-            details_response = requests.get(f'https://api.themoviedb.org/3/person/{person_id}?api_key={tmdb_api_key}&language=en-US')
+            details_response = requests.get(f'https://api.themoviedb.org/3/person/{person_id}?api_key={tmdb_api_key}&language=en-US', timeout=20)
             if details_response.status_code == 200:
                 person['biography'] = details_response.json().get('biography', 'No biography available.')
 
