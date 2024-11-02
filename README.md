@@ -219,3 +219,7 @@ If you have any concerns or questions related to Movie Mood, feel free to reach 
 ## License
 
 This project is under the MIT License.
+
+## Citation
+
+The Powerpuff Girls3. CSC-510-Movie-Mood. Version 1.0.0, 2024, GitHub, https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood
