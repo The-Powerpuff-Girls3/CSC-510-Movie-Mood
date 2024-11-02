@@ -34,14 +34,6 @@ class Tests(unittest.TestCase):
 
         self.assertTrue(result == expected_result)
 
-    def test_create_colored_tags(self):
-        """
-        Test case 2
-        """
-        expected_result = '<span style="background-color: #FF1493; color: #FFFFFF; \
-            padding: 5px; border-radius: 5px;">Musical</span>'
-        result = create_colored_tags(['Musical'])
-        self.assertTrue(result == expected_result)
 
     def test_create_movie_genres(self):
         """

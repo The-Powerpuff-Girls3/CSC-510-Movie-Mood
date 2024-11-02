@@ -213,9 +213,20 @@ We mainly use wechat group to communicate!
 
 ## Contact Us
 
-If you have any concerns or questions related to Movie Mood, feel free to reach out to us at moviemoodhelp@gmail.com.
+If you have any concerns or questions related to Movie Mood, feel free to reach out to us at moviemoodhelpgmailcom@googlegroups.com.
 
+## deprecation
+
+we will give deprecation infomation here. 
 
 ## License
 
 This project is under the MIT License.
+
+## Funding
+
+Not funded
+
+## Citation
+
+The Powerpuff Girls3. CSC-510-Movie-Mood. Version 1.0.0, 2024, GitHub, https://github.com/The-Powerpuff-Girls3/CSC-510-Movie-Mood
