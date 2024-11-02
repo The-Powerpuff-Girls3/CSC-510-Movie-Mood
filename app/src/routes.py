@@ -383,3 +383,4 @@ def new_series():
         return render_template('new_series.html', series=series_data, user=current_user)
     return render_template('new_series.html', show_message=True,
                            message='Error fetching series data')
+    
