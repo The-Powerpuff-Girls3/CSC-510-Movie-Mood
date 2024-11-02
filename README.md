@@ -206,6 +206,10 @@ Please refer to the [CONTRIBUTING.md](https://github.com/The-Powerpuff-Girls3/CS
 [Yinan Wu](https://github.com/YinanWusoymilk)
 [Xuntao Lyu](https://github.com/lvxuntao)
 
+Channel of group communication
+We mainly use wechat group to communicate!
+![Alt text](data/channel%20evidence.jpg)
+
 
 ## Contact Us
 
