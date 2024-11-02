@@ -213,7 +213,7 @@ We mainly use wechat group to communicate!
 
 ## Contact Us
 
-If you have any concerns or questions related to Movie Mood, feel free to reach out to us at moviemoodhelp@gmail.com.
+If you have any concerns or questions related to Movie Mood, feel free to reach out to us at moviemoodhelpgmailcom@googlegroups.com.
 
 
 ## License
